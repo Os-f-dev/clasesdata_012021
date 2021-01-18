@@ -1,4 +1,4 @@
-CREATE TABLE product
+/*CREATE TABLE product
  (
  p_code VARCHAR(6),
  p_name VARCHAR(15),
@@ -13,7 +13,7 @@ VALUES (1,'Nail', 10.0,"2013-03-29"),
 (3, 'Nut', 15.00,"2013-03-29"),
 (4, 'Screw', 25.00,"2013-03-30"),
 (5, 'Super_Nut', 30.00,"2013-02-28"),
-(6, 'New Nut', NULL, NULL);
+(6, 'New Nut', NULL, NULL);*/
 
 create table c_order (c_no varchar(6), p_code varchar(6),qty int,order_dt DATE);
 
