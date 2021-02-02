@@ -1,0 +1,732 @@
+Character,Film,Chapter,Race,Words
+Aragorn,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Men,76
+Aragorn,The Fellowship Of The Ring,16: The Nazgul,Men,96
+Aragorn,The Fellowship Of The Ring,17: The Midgewater Marshes,Men,33
+Aragorn,The Fellowship Of The Ring,19: A Knife In The Dark,Men,53
+Aragorn,The Fellowship Of The Ring,21: Flight To The Ford,Men,48
+Aragorn,The Fellowship Of The Ring,25: The Sword That Was Broken,Men,25
+Aragorn,The Fellowship Of The Ring,26: The Evenstar,Men,24
+Aragorn,The Fellowship Of The Ring,27: The Council Of Elrond,Men,40
+Aragorn,The Fellowship Of The Ring,28: Gilraen's Memorial,Men,11
+Aragorn,The Fellowship Of The Ring,31: The Ring Goes South,Men,12
+Aragorn,The Fellowship Of The Ring,32: The Pass Of Caradhras,Men,30
+Aragorn,The Fellowship Of The Ring,33: Moria,Men,31
+Aragorn,The Fellowship Of The Ring,35: Balin's Tomb,Men,22
+Aragorn,The Fellowship Of The Ring,36: The Bridge Of Khazad-dûm,Men,45
+Aragorn,The Fellowship Of The Ring,37: Lothlorien,Men,26
+Aragorn,The Fellowship Of The Ring,38: Caras Galadhon,Men,16
+Aragorn,The Fellowship Of The Ring,41: Farewell To Lorien,Men,13
+Aragorn,The Fellowship Of The Ring,42: The Great River,Men,64
+Aragorn,The Fellowship Of The Ring,43: Parth Galen,Men,79
+Aragorn,The Fellowship Of The Ring,44: The Breaking Of The Fellowship,Men,2
+Aragorn,The Fellowship Of The Ring,45: The Departure Of Boromir,Men,72
+Aragorn,The Fellowship Of The Ring,46: The Road Goes Ever On…,Men,102
+Aragorn,The Return Of The King,04: The Voice Of Saruman,Men,3
+Aragorn,The Return Of The King,05: Return To Edoras,Men,20
+Aragorn,The Return Of The King,07: Eowyn's Dream,Men,13
+Aragorn,The Return Of The King,08: The Palantir,Men,20
+Aragorn,The Return Of The King,20: Theoren's Decision,Men,18
+Aragorn,The Return Of The King,29: Marshalling At Dunharrow,Men,26
+Aragorn,The Return Of The King,30: Anduril - Flame Of The West,Men,54
+Aragorn,The Return Of The King,31: Aragorn Takes The Paths Of The Dead,Men,42
+Aragorn,The Return Of The King,33: Dwimoberg ~ The Haunted Mountain,Men,6
+Aragorn,The Return Of The King,35: The Paths Of The Dead,Men,75
+Aragorn,The Return Of The King,37: The Corsairs Of Umbar,Men,21
+Aragorn,The Return Of The King,53: Victory At Minar Tirith,Men,1
+Aragorn,The Return Of The King,55: Oaths Fulfilled,Men,9
+Aragorn,The Return Of The King,59: The Last Debate,Men,82
+Aragorn,The Return Of The King,60: Aragorn Masters The Palantir,Men,17
+Aragorn,The Return Of The King,64: The Mouth Of Sauron,Men,23
+Aragorn,The Return Of The King,65: The Black Gate Opens,Men,103
+Aragorn,The Return Of The King,67: The Last Move,Men,2
+Aragorn,The Return Of The King,74: The Return Of The King,Men,45
+Aragorn,The Two Towers,05: The Three Hunters,Men,59
+Aragorn,The Two Towers,11: The Riders Of Rohan,Men,68
+Aragorn,The Two Towers,12: The Fate Of Merry And Pippin,Men,33
+Aragorn,The Two Towers,15: The White Rider,Men,68
+Aragorn,The Two Towers,17: The Heir Of Númenor,Men,7
+Aragorn,The Two Towers,20: The King Of The Golden Hall,Men,18
+Aragorn,The Two Towers,23: The King's Decision,Men,59
+Aragorn,The Two Towers,24: Brego,Men,22
+Aragorn,The Two Towers,26: A Daughter Of Kings,Men,31
+Aragorn,The Two Towers,31: Dwarf Women,Men,3
+Aragorn,The Two Towers,32: One of the Dúnedain,Men,33
+Aragorn,The Two Towers,33: The Evenstar,Men,97
+Aragorn,The Two Towers,34: The Wolves Of Isengard,Men,9
+Aragorn,The Two Towers,43: Aragorn's Return,Men,69
+Aragorn,The Two Towers,45: The Glittering Caves,Men,78
+Aragorn,The Two Towers,48: The Host Of The Eldar,Men,34
+Aragorn,The Two Towers,49: The Battle Of The Hornburg,Men,18
+Aragorn,The Two Towers,51: The Breach Of The Deeping Wall,Men,12
+Aragorn,The Two Towers,53: The Retreat To The Hornburg,Men,31
+Aragorn,The Two Towers,58: Forth Eorlingas,Men,73
+Arwen,The Fellowship Of The Ring,21: Flight To The Ford,Elf,131
+Arwen,The Fellowship Of The Ring,25: The Sword That Was Broken,Elf,47
+Arwen,The Fellowship Of The Ring,26: The Evenstar,Elf,57
+Arwen,The Return Of The King,10: The Reforging Of Narsil,Elf,100
+Arwen,The Return Of The King,30: Anduril - Flame Of The West,Elf,15
+Arwen,The Two Towers,33: The Evenstar,Elf,119
+Arwen,The Two Towers,37: The Grace Of The Valar,Elf,8
+Arwen,The Two Towers,38: Arwen's Fate,Elf,14
+Bilbo,The Fellowship Of The Ring,01: Prologue,Hobbit,4
+Bilbo,The Fellowship Of The Ring,02: Concerning Hobbits,Hobbit,214
+Bilbo,The Fellowship Of The Ring,03: The Shire,Hobbit,70
+Bilbo,The Fellowship Of The Ring,04: Very Old Friends,Hobbit,339
+Bilbo,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,326
+Bilbo,The Fellowship Of The Ring,06: Farewell Dear Bilbo,Hobbit,182
+Bilbo,The Fellowship Of The Ring,07: Keep It Secret Keep It Safe,Hobbit,6
+Bilbo,The Fellowship Of The Ring,10: The Shadow Of The Past,Hobbit,28
+Bilbo,The Fellowship Of The Ring,23: Many Meetings,Hobbit,36
+Bilbo,The Fellowship Of The Ring,29: Bilbo's Gifts,Hobbit,105
+Bilbo,The Return Of The King,76: The Grey Havens,Hobbit,56
+Boromir,The Fellowship Of The Ring,25: The Sword That Was Broken,Men,39
+Boromir,The Fellowship Of The Ring,27: The Council Of Elrond,Men,220
+Boromir,The Fellowship Of The Ring,31: The Ring Goes South,Men,15
+Boromir,The Fellowship Of The Ring,32: The Pass Of Caradhras,Men,61
+Boromir,The Fellowship Of The Ring,33: Moria,Men,31
+Boromir,The Fellowship Of The Ring,35: Balin's Tomb,Men,5
+Boromir,The Fellowship Of The Ring,36: The Bridge Of Khazad-dûm,Men,17
+Boromir,The Fellowship Of The Ring,37: Lothlorien,Men,27
+Boromir,The Fellowship Of The Ring,38: Caras Galadhon,Men,149
+Boromir,The Fellowship Of The Ring,42: The Great River,Men,103
+Boromir,The Fellowship Of The Ring,43: Parth Galen,Men,202
+Boromir,The Fellowship Of The Ring,44: The Breaking Of The Fellowship,Men,2
+Boromir,The Fellowship Of The Ring,45: The Departure Of Boromir,Men,72
+Boromir,The Two Towers,01: The Foundations Of Stone,Men,2
+Boromir,The Two Towers,41: Sons Of The Steward,Men,132
+Boson,The Return Of The King,37: The Corsairs Of Umbar,Men,7
+Celeborn,The Fellowship Of The Ring,38: Caras Galadhon,Elf,61
+Celeborn,The Fellowship Of The Ring,41: Farewell To Lorien,Elf,99
+Crowd,The Two Towers,41: Sons Of The Steward,Men,6
+Damrod,The Return Of The King,18: Osgiliath Invaded,Men,3
+Damrod,The Return Of The King,21: The Fall of Osgiliath,Men,1
+Deagol,The Return Of The King,01: The Finding Of The Ring,Hobbit,13
+Denethor,The Return Of The King,11: Minas Tirith,Men,151
+Denethor,The Return Of The King,22: The Wizard's Pupil,Men,114
+Denethor,The Return Of The King,26: Allegiance To Denethor,Men,89
+Denethor,The Return Of The King,28: The Sacrifice Of Faramir,Men,20
+Denethor,The Return Of The King,36: The Siege Of Gondor,Men,40
+Denethor,The Return Of The King,41: The Tomb Of The Stewards,Men,68
+Denethor,The Return Of The King,44: Denethor's Madness,Men,36
+Denethor,The Return Of The King,47: The Pyre Of Denethor,Men,42
+Denethor,The Two Towers,41: Sons Of The Steward,Men,250
+Elrond,The Fellowship Of The Ring,01: Prologue,Elf,5
+Elrond,The Fellowship Of The Ring,22: Rivendell,Elf,7
+Elrond,The Fellowship Of The Ring,23: Many Meetings,Elf,5
+Elrond,The Fellowship Of The Ring,24: The Fate Of The Ring,Elf,260
+Elrond,The Fellowship Of The Ring,27: The Council Of Elrond,Elf,167
+Elrond,The Fellowship Of The Ring,28: Gilraen's Memorial,Elf,65
+Elrond,The Fellowship Of The Ring,30: The Departure Of The Fellowship,Elf,48
+Elrond,The Return Of The King,09: Arwen's Vision,Elf,36
+Elrond,The Return Of The King,10: The Reforging Of Narsil,Elf,30
+Elrond,The Return Of The King,30: Anduril - Flame Of The West,Elf,168
+Elrond,The Return Of The King,76: The Grey Havens,Elf,6
+Elrond,The Two Towers,33: The Evenstar,Elf,55
+Elrond,The Two Towers,38: Arwen's Fate,Elf,188
+Eomer,The Return Of The King,05: Return To Edoras,Men,4
+Eomer,The Return Of The King,20: Theoren's Decision,Men,21
+Eomer,The Return Of The King,29: Marshalling At Dunharrow,Men,89
+Eomer,The Return Of The King,34: The Muster Of Rohan,Men,8
+Eomer,The Return Of The King,39: Merry's Simple Courage,Men,22
+Eomer,The Return Of The King,46: The Ride Of The Rohirrim,Men,2
+Eomer,The Return Of The King,48: The Battle Of The Pelennor Fields,Men,9
+Eomer,The Return Of The King,56: The Houses Of Healing,Men,3
+Eomer,The Return Of The King,59: The Last Debate,Men,8
+Eomer,The Two Towers,07: Massacre at the Fords of Isen,Men,13
+Eomer,The Two Towers,08: The Banishment of Éomer,Men,88
+Eomer,The Two Towers,11: The Riders Of Rohan,Men,156
+Eomer,The Two Towers,58: Forth Eorlingas,Men,6
+Eomer,The Two Towers,61: Fangorn Comes To Helm's Deep,Men,10
+Eothain,The Two Towers,06: The Burning of the Westfold,Men,2
+Eowyn,The Return Of The King,05: Return To Edoras,Men,8
+Eowyn,The Return Of The King,07: Eowyn's Dream,Men,50
+Eowyn,The Return Of The King,20: Theoren's Decision,Men,36
+Eowyn,The Return Of The King,29: Marshalling At Dunharrow,Men,56
+Eowyn,The Return Of The King,31: Aragorn Takes The Paths Of The Dead,Men,32
+Eowyn,The Return Of The King,32: No More Despair,Men,10
+Eowyn,The Return Of The King,34: The Muster Of Rohan,Men,3
+Eowyn,The Return Of The King,39: Merry's Simple Courage,Men,10
+Eowyn,The Return Of The King,46: The Ride Of The Rohirrim,Men,17
+Eowyn,The Return Of The King,48: The Battle Of The Pelennor Fields,Men,8
+Eowyn,The Return Of The King,50: The Nazgul And His Prey,Men,8
+Eowyn,The Return Of The King,52: Shieldmaiden Of Rohan,Men,4
+Eowyn,The Return Of The King,53: Victory At Minar Tirith,Men,1
+Eowyn,The Return Of The King,54: The Passing Of Theoden,Men,8
+Eowyn,The Return Of The King,61: The Captain And The White Lady,Men,17
+Eowyn,The Two Towers,08: The Banishment of Éomer,Men,8
+Eowyn,The Two Towers,20: The King Of The Golden Hall,Men,28
+Eowyn,The Two Towers,21: The Funeral Of Théodred,Men,24
+Eowyn,The Two Towers,23: The King's Decision,Men,24
+Eowyn,The Two Towers,24: Brego,Men,36
+Eowyn,The Two Towers,26: A Daughter Of Kings,Men,45
+Eowyn,The Two Towers,32: One of the Dúnedain,Men,76
+Eowyn,The Two Towers,33: The Evenstar,Men,11
+Eowyn,The Two Towers,34: The Wolves Of Isengard,Men,10
+Eowyn,The Two Towers,35: Helm's Deep,Men,22
+Eowyn,The Two Towers,45: The Glittering Caves,Men,65
+Faramir,The Return Of The King,18: Osgiliath Invaded,Men,18
+Faramir,The Return Of The King,21: The Fall of Osgiliath,Men,66
+Faramir,The Return Of The King,22: The Wizard's Pupil,Men,72
+Faramir,The Return Of The King,25: Peregrin Of The Tower Guard,Men,80
+Faramir,The Return Of The King,26: Allegiance To Denethor,Men,53
+Faramir,The Return Of The King,28: The Sacrifice Of Faramir,Men,31
+Faramir,The Return Of The King,61: The Captain And The White Lady,Men,17
+Faramir,The Two Towers,30: Of Herbs And Stewed Rabbit,Men,76
+Faramir,The Two Towers,40: The Windows On The West,Men,143
+Faramir,The Two Towers,41: Sons Of The Steward,Men,35
+Faramir,The Two Towers,42: The Forbidden Pool,Men,92
+Faramir,The Two Towers,55: Osgiliath,Men,1
+Faramir,The Two Towers,57: The Nazgûl Attack,Men,31
+Faramir,The Two Towers,60: The Tales That Really Mattered…,Men,16
+Faramir,The Two Towers,64: Farewell To Faramir,Men,95
+Farmer Maggot,The Fellowship Of The Ring,13: A Shortcut To Mushrooms,Hobbit,21
+Figwit,The Return Of The King,09: Arwen's Vision,Elf,7
+Freda,The Two Towers,06: The Burning of the Westfold,Men,24
+Freda,The Two Towers,23: The King's Decision,Men,3
+Freda,The Two Towers,35: Helm's Deep,Men,1
+Frodo,The Fellowship Of The Ring,03: The Shire,Hobbit,128
+Frodo,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,32
+Frodo,The Fellowship Of The Ring,07: Keep It Secret Keep It Safe,Hobbit,33
+Frodo,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,17
+Frodo,The Fellowship Of The Ring,10: The Shadow Of The Past,Hobbit,139
+Frodo,The Fellowship Of The Ring,11: The Passing Of The Elves,Hobbit,43
+Frodo,The Fellowship Of The Ring,13: A Shortcut To Mushrooms,Hobbit,37
+Frodo,The Fellowship Of The Ring,14: Buckleberry Ferry,Hobbit,20
+Frodo,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Hobbit,68
+Frodo,The Fellowship Of The Ring,16: The Nazgul,Hobbit,29
+Frodo,The Fellowship Of The Ring,17: The Midgewater Marshes,Hobbit,12
+Frodo,The Fellowship Of The Ring,19: A Knife In The Dark,Hobbit,16
+Frodo,The Fellowship Of The Ring,23: Many Meetings,Hobbit,107
+Frodo,The Fellowship Of The Ring,27: The Council Of Elrond,Hobbit,24
+Frodo,The Fellowship Of The Ring,29: Bilbo's Gifts,Hobbit,3
+Frodo,The Fellowship Of The Ring,30: The Departure Of The Fellowship,Hobbit,7
+Frodo,The Fellowship Of The Ring,32: The Pass Of Caradhras,Hobbit,6
+Frodo,The Fellowship Of The Ring,33: Moria,Hobbit,30
+Frodo,The Fellowship Of The Ring,34: A Journey In The Dark,Hobbit,39
+Frodo,The Fellowship Of The Ring,35: Balin's Tomb,Hobbit,8
+Frodo,The Fellowship Of The Ring,36: The Bridge Of Khazad-dûm,Hobbit,4
+Frodo,The Fellowship Of The Ring,39: The Mirror Of Galadriel,Hobbit,36
+Frodo,The Fellowship Of The Ring,42: The Great River,Hobbit,16
+Frodo,The Fellowship Of The Ring,43: Parth Galen,Hobbit,54
+Frodo,The Fellowship Of The Ring,46: The Road Goes Ever On…,Hobbit,59
+Frodo,The Return Of The King,02: Journey To The Cross-roads,Hobbit,18
+Frodo,The Return Of The King,06: Gollum's Villany,Hobbit,46
+Frodo,The Return Of The King,13: Cross-roads Of The Fallen King,Hobbit,30
+Frodo,The Return Of The King,15: Minas Morgul,Hobbit,8
+Frodo,The Return Of The King,16: Sam's Warning,Hobbit,4
+Frodo,The Return Of The King,27: The Parting Of Sam & Frodo,Hobbit,43
+Frodo,The Return Of The King,38: Shelob's Lair,Hobbit,60
+Frodo,The Return Of The King,58: The Tower Of Cirith Ungol,Hobbit,64
+Frodo,The Return Of The King,62: In The Company Of Orcs,Hobbit,16
+Frodo,The Return Of The King,63: The Land Of Shadow,Hobbit,30
+Frodo,The Return Of The King,66: I Can't Carry It For You… But I Can Carry You,Hobbit,44
+Frodo,The Return Of The King,68: Mount Doom,Hobbit,9
+Frodo,The Return Of The King,70: The Crack Of Doom,Hobbit,7
+Frodo,The Return Of The King,72: The End Of All Things,Hobbit,37
+Frodo,The Return Of The King,73: The Fellowship Reunited,Hobbit,4
+Frodo,The Return Of The King,75: Homeward Bound,Hobbit,98
+Frodo,The Return Of The King,76: The Grey Havens,Hobbit,132
+Frodo,The Two Towers,01: The Foundations Of Stone,Hobbit,9
+Frodo,The Two Towers,02: Elven Rope,Hobbit,46
+Frodo,The Two Towers,03: The Taming of Sméagol,Hobbit,123
+Frodo,The Two Towers,14: The Passage Of The Marshes,Hobbit,54
+Frodo,The Two Towers,18: The Black Gate Is Closed,Hobbit,39
+Frodo,The Two Towers,28: The Forests Of Ithilien,Hobbit,81
+Frodo,The Two Towers,30: Of Herbs And Stewed Rabbit,Hobbit,39
+Frodo,The Two Towers,40: The Windows On The West,Hobbit,75
+Frodo,The Two Towers,42: The Forbidden Pool,Hobbit,89
+Frodo,The Two Towers,55: Osgiliath,Hobbit,23
+Frodo,The Two Towers,57: The Nazgûl Attack,Hobbit,15
+Frodo,The Two Towers,60: The Tales That Really Mattered…,Hobbit,12
+Frodo,The Two Towers,64: Farewell To Faramir,Hobbit,18
+Frodo,The Two Towers,65: The Battle For Middle Earth Is About To Begin,Hobbit,30
+Frodo,The Two Towers,66: Gollum's Plan,Hobbit,11
+Gaffer,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,21
+Galadriel,The Fellowship Of The Ring,01: Prologue,Elf,460
+Galadriel,The Fellowship Of The Ring,37: Lothlorien,Elf,19
+Galadriel,The Fellowship Of The Ring,38: Caras Galadhon,Elf,135
+Galadriel,The Fellowship Of The Ring,39: The Mirror Of Galadriel,Elf,214
+Galadriel,The Fellowship Of The Ring,41: Farewell To Lorien,Elf,166
+Galadriel,The Return Of The King,38: Shelob's Lair,Elf,51
+Galadriel,The Return Of The King,76: The Grey Havens,Elf,17
+Galadriel,The Two Towers,39: The Story Foreseen From Lórien,Elf,190
+Gamling,The Return Of The King,20: Theoren's Decision,Men,4
+Gamling,The Return Of The King,31: Aragorn Takes The Paths Of The Dead,Men,18
+Gamling,The Two Towers,34: The Wolves Of Isengard,Men,5
+Gamling,The Two Towers,35: Helm's Deep,Men,14
+Gamling,The Two Towers,43: Aragorn's Return,Men,9
+Gamling,The Two Towers,46: Where Is The Horse And The Rider,Men,30
+Gamling,The Two Towers,49: The Battle Of The Hornburg,Men,1
+Gamling,The Two Towers,53: The Retreat To The Hornburg,Men,6
+Gamling,The Two Towers,58: Forth Eorlingas,Men,20
+Gandalf,The Fellowship Of The Ring,03: The Shire,Ainur,197
+Gandalf,The Fellowship Of The Ring,04: Very Old Friends,Ainur,64
+Gandalf,The Fellowship Of The Ring,05: A Long Expected Party,Ainur,12
+Gandalf,The Fellowship Of The Ring,06: Farewell Dear Bilbo,Ainur,148
+Gandalf,The Fellowship Of The Ring,07: Keep It Secret Keep It Safe,Ainur,60
+Gandalf,The Fellowship Of The Ring,08: The Account of Isildur,Ainur,107
+Gandalf,The Fellowship Of The Ring,10: The Shadow Of The Past,Ainur,541
+Gandalf,The Fellowship Of The Ring,12: Saruman The White,Ainur,85
+Gandalf,The Fellowship Of The Ring,20: The Caverns Of Isengard,Ainur,5
+Gandalf,The Fellowship Of The Ring,23: Many Meetings,Ainur,104
+Gandalf,The Fellowship Of The Ring,24: The Fate Of The Ring,Ainur,102
+Gandalf,The Fellowship Of The Ring,27: The Council Of Elrond,Ainur,85
+Gandalf,The Fellowship Of The Ring,30: The Departure Of The Fellowship,Ainur,7
+Gandalf,The Fellowship Of The Ring,31: The Ring Goes South,Ainur,68
+Gandalf,The Fellowship Of The Ring,32: The Pass Of Caradhras,Ainur,18
+Gandalf,The Fellowship Of The Ring,33: Moria,Ainur,202
+Gandalf,The Fellowship Of The Ring,34: A Journey In The Dark,Ainur,349
+Gandalf,The Fellowship Of The Ring,35: Balin's Tomb,Ainur,89
+Gandalf,The Fellowship Of The Ring,36: The Bridge Of Khazad-dûm,Ainur,83
+Gandalf,The Fellowship Of The Ring,46: The Road Goes Ever On…,Ainur,34
+Gandalf,The Return Of The King,03: The Road To Isengard,Ainur,1
+Gandalf,The Return Of The King,04: The Voice Of Saruman,Ainur,111
+Gandalf,The Return Of The King,05: Return To Edoras,Ainur,15
+Gandalf,The Return Of The King,08: The Palantir,Ainur,255
+Gandalf,The Return Of The King,11: Minas Tirith,Ainur,202
+Gandalf,The Return Of The King,12: The Decline Of Gondor,Ainur,268
+Gandalf,The Return Of The King,14: The Deep Breath Before The Plunge,Ainur,163
+Gandalf,The Return Of The King,15: Minas Morgul,Ainur,20
+Gandalf,The Return Of The King,17: Pippin's Task,Ainur,30
+Gandalf,The Return Of The King,19: The Lighting Of The Beacons,Ainur,5
+Gandalf,The Return Of The King,21: The Fall of Osgiliath,Ainur,34
+Gandalf,The Return Of The King,24: Courage Is The Best Defense,Ainur,9
+Gandalf,The Return Of The King,28: The Sacrifice Of Faramir,Ainur,29
+Gandalf,The Return Of The King,36: The Siege Of Gondor,Ainur,81
+Gandalf,The Return Of The King,40: Grond ~ The Hammer Of The Underworld,Ainur,5
+Gandalf,The Return Of The King,42: Breaking The Gate Of Gondor,Ainur,21
+Gandalf,The Return Of The King,45: The Witch King's Hour,Ainur,48
+Gandalf,The Return Of The King,47: The Pyre Of Denethor,Ainur,9
+Gandalf,The Return Of The King,49: A Far Green Country,Ainur,54
+Gandalf,The Return Of The King,59: The Last Debate,Ainur,59
+Gandalf,The Return Of The King,64: The Mouth Of Sauron,Ainur,32
+Gandalf,The Return Of The King,74: The Return Of The King,Ainur,11
+Gandalf,The Return Of The King,76: The Grey Havens,Ainur,42
+Gandalf,The Two Towers,01: The Foundations Of Stone,Ainur,39
+Gandalf,The Two Towers,15: The White Rider,Ainur,298
+Gandalf,The Two Towers,17: The Heir Of Númenor,Ainur,226
+Gandalf,The Two Towers,20: The King Of The Golden Hall,Ainur,151
+Gandalf,The Two Towers,22: Simbelmynë on the Burial Mounds,Ainur,28
+Gandalf,The Two Towers,23: The King's Decision,Ainur,165
+Gandalf,The Two Towers,58: Forth Eorlingas,Ainur,21
+Gandalf,The Two Towers,65: The Battle For Middle Earth Is About To Begin,Ainur,36
+Gatekeeper,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Men,38
+Gimli,The Fellowship Of The Ring,27: The Council Of Elrond,Dwarf,38
+Gimli,The Fellowship Of The Ring,31: The Ring Goes South,Dwarf,47
+Gimli,The Fellowship Of The Ring,32: The Pass Of Caradhras,Dwarf,19
+Gimli,The Fellowship Of The Ring,33: Moria,Dwarf,52
+Gimli,The Fellowship Of The Ring,34: A Journey In The Dark,Dwarf,6
+Gimli,The Fellowship Of The Ring,35: Balin's Tomb,Dwarf,37
+Gimli,The Fellowship Of The Ring,36: The Bridge Of Khazad-dûm,Dwarf,7
+Gimli,The Fellowship Of The Ring,37: Lothlorien,Dwarf,84
+Gimli,The Fellowship Of The Ring,41: Farewell To Lorien,Dwarf,81
+Gimli,The Fellowship Of The Ring,43: Parth Galen,Dwarf,48
+Gimli,The Fellowship Of The Ring,46: The Road Goes Ever On…,Dwarf,12
+Gimli,The Return Of The King,03: The Road To Isengard,Dwarf,22
+Gimli,The Return Of The King,04: The Voice Of Saruman,Dwarf,23
+Gimli,The Return Of The King,05: Return To Edoras,Dwarf,40
+Gimli,The Return Of The King,20: Theoren's Decision,Dwarf,15
+Gimli,The Return Of The King,29: Marshalling At Dunharrow,Dwarf,12
+Gimli,The Return Of The King,31: Aragorn Takes The Paths Of The Dead,Dwarf,20
+Gimli,The Return Of The King,33: Dwimoberg ~ The Haunted Mountain,Dwarf,45
+Gimli,The Return Of The King,35: The Paths Of The Dead,Dwarf,43
+Gimli,The Return Of The King,37: The Corsairs Of Umbar,Dwarf,14
+Gimli,The Return Of The King,51: The Black Ships,Dwarf,12
+Gimli,The Return Of The King,53: Victory At Minar Tirith,Dwarf,6
+Gimli,The Return Of The King,55: Oaths Fulfilled,Dwarf,15
+Gimli,The Return Of The King,59: The Last Debate,Dwarf,24
+Gimli,The Return Of The King,64: The Mouth Of Sauron,Dwarf,5
+Gimli,The Return Of The King,65: The Black Gate Opens,Dwarf,16
+Gimli,The Return Of The King,73: The Fellowship Reunited,Dwarf,1
+Gimli,The Two Towers,05: The Three Hunters,Dwarf,35
+Gimli,The Two Towers,09: On The Trail Of The Uruk-Hai,Dwarf,6
+Gimli,The Two Towers,11: The Riders Of Rohan,Dwarf,24
+Gimli,The Two Towers,12: The Fate Of Merry And Pippin,Dwarf,16
+Gimli,The Two Towers,15: The White Rider,Dwarf,73
+Gimli,The Two Towers,20: The King Of The Golden Hall,Dwarf,15
+Gimli,The Two Towers,23: The King's Decision,Dwarf,21
+Gimli,The Two Towers,31: Dwarf Women,Dwarf,68
+Gimli,The Two Towers,32: One of the Dúnedain,Dwarf,6
+Gimli,The Two Towers,34: The Wolves Of Isengard,Dwarf,45
+Gimli,The Two Towers,35: Helm's Deep,Dwarf,4
+Gimli,The Two Towers,43: Aragorn's Return,Dwarf,51
+Gimli,The Two Towers,45: The Glittering Caves,Dwarf,13
+Gimli,The Two Towers,48: The Host Of The Eldar,Dwarf,14
+Gimli,The Two Towers,49: The Battle Of The Hornburg,Dwarf,50
+Gimli,The Two Towers,51: The Breach Of The Deeping Wall,Dwarf,6
+Gimli,The Two Towers,53: The Retreat To The Hornburg,Dwarf,34
+Gimli,The Two Towers,58: Forth Eorlingas,Dwarf,5
+Gimli,The Two Towers,62: The Final Tally,Dwarf,35
+Gollum,The Fellowship Of The Ring,01: Prologue,Gollum,20
+Gollum,The Fellowship Of The Ring,08: The Account of Isildur,Gollum,3
+Gollum,The Fellowship Of The Ring,10: The Shadow Of The Past,Gollum,2
+Gollum,The Return Of The King,01: The Finding Of The Ring,Gollum,3
+Gollum,The Return Of The King,02: Journey To The Cross-roads,Gollum,41
+Gollum,The Return Of The King,06: Gollum's Villany,Gollum,149
+Gollum,The Return Of The King,13: Cross-roads Of The Fallen King,Gollum,13
+Gollum,The Return Of The King,15: Minas Morgul,Gollum,50
+Gollum,The Return Of The King,16: Sam's Warning,Gollum,13
+Gollum,The Return Of The King,23: The Stairs Of Cirith Ungol,Gollum,76
+Gollum,The Return Of The King,27: The Parting Of Sam & Frodo,Gollum,79
+Gollum,The Return Of The King,38: Shelob's Lair,Gollum,64
+Gollum,The Return Of The King,68: Mount Doom,Gollum,17
+Gollum,The Return Of The King,70: The Crack Of Doom,Gollum,5
+Gollum,The Two Towers,03: The Taming of Sméagol,Gollum,147
+Gollum,The Two Towers,14: The Passage Of The Marshes,Gollum,304
+Gollum,The Two Towers,18: The Black Gate Is Closed,Gollum,93
+Gollum,The Two Towers,29: Gollum and Sméagol ,Gollum,73
+Gollum,The Two Towers,42: The Forbidden Pool,Gollum,35
+Gollum,The Two Towers,64: Farewell To Faramir,Gollum,32
+Gollum,The Two Towers,66: Gollum's Plan,Gollum,75
+Gondor Man,The Return Of The King,14: The Deep Breath Before The Plunge,Men,2
+Gondor Man,The Return Of The King,18: Osgiliath Invaded,Men,7
+Gondor Man,The Return Of The King,19: The Lighting Of The Beacons,Men,10
+Gondor Man,The Return Of The King,21: The Fall of Osgiliath,Men,17
+Gondor Man,The Return Of The King,24: Courage Is The Best Defense,Men,9
+Gondor Man,The Return Of The King,36: The Siege Of Gondor,Men,19
+Gondor Man,The Return Of The King,44: Denethor's Madness,Men,10
+Gondor Man,The Return Of The King,45: The Witch King's Hour,Men,7
+Gondor Man,The Two Towers,40: The Windows On The West,Men,63
+Gondor Man,The Two Towers,42: The Forbidden Pool,Men,16
+Gondor Man,The Two Towers,55: Osgiliath,Men,6
+Gondor Man,The Two Towers,57: The Nazgûl Attack,Men,20
+Gondor Man,The Two Towers,60: The Tales That Really Mattered…,Men,22
+Gothmog,The Return Of The King,18: Osgiliath Invaded,Orc,6
+Gothmog,The Return Of The King,21: The Fall of Osgiliath,Orc,13
+Gothmog,The Return Of The King,24: Courage Is The Best Defense,Orc,4
+Gothmog,The Return Of The King,36: The Siege Of Gondor,Orc,46
+Gothmog,The Return Of The King,45: The Witch King's Hour,Orc,9
+Gothmog,The Return Of The King,46: The Ride Of The Rohirrim,Orc,15
+Grima Wormtongue,The Return Of The King,04: The Voice Of Saruman,Men,2
+Grima Wormtongue,The Two Towers,08: The Banishment of Éomer,Men,81
+Grima Wormtongue,The Two Towers,20: The King Of The Golden Hall,Men,166
+Grima Wormtongue,The Two Towers,25: The Ring Of Barahir,Men,51
+Grima Wormtongue,The Two Towers,27: Exodus From Edoras,Men,52
+Grima Wormtongue,The Two Towers,36: Isengard Unleashed,Men,66
+Grimhold,The Return Of The King,29: Marshalling At Dunharrow,Men,9
+Grishnakh,The Two Towers,04: The Uruk-Hai,Orc,10
+Grishnakh,The Two Towers,10: Night Camp At Fangorn,Orc,44
+Grishnakh,The Two Towers,13: Treebeard,Orc,18
+Grobag,The Return Of The King,58: The Tower Of Cirith Ungol,Orc,23
+Haldir,The Fellowship Of The Ring,37: Lothlorien,Elf,51
+Haldir,The Fellowship Of The Ring,38: Caras Galadhon,Elf,19
+Haldir,The Two Towers,48: The Host Of The Eldar,Elf,37
+Haleth,The Two Towers,48: The Host Of The Eldar,Men,23
+Hama,The Two Towers,20: The King Of The Golden Hall,Men,21
+Hama,The Two Towers,23: The King's Decision,Men,29
+Hama,The Two Towers,34: The Wolves Of Isengard,Men,3
+Hobbit Kids,The Fellowship Of The Ring,03: The Shire,Hobbit,10
+Hobbits,The Fellowship Of The Ring,03: The Shire,Hobbit,12
+Hobbits,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,8
+Hobbits,The Fellowship Of The Ring,08: The Account of Isildur,Hobbit,12
+Hobbits,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,53
+Hobbits,The Fellowship Of The Ring,10: The Shadow Of The Past,Hobbit,3
+Hobbits,The Return Of The King,75: Homeward Bound,Hobbit,4
+Innkeeper,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Men,76
+Irolas,The Return Of The King,21: The Fall of Osgiliath,Men,13
+Irolas,The Return Of The King,36: The Siege Of Gondor,Men,7
+Isildur,The Fellowship Of The Ring,24: The Fate Of The Ring,Men,1
+King Of The Dead,The Return Of The King,35: The Paths Of The Dead,Dead,53
+King Of The Dead,The Return Of The King,55: Oaths Fulfilled,Dead,7
+Legolas,The Fellowship Of The Ring,27: The Council Of Elrond,Elf,34
+Legolas,The Fellowship Of The Ring,31: The Ring Goes South,Elf,3
+Legolas,The Fellowship Of The Ring,32: The Pass Of Caradhras,Elf,8
+Legolas,The Fellowship Of The Ring,33: Moria,Elf,7
+Legolas,The Fellowship Of The Ring,35: Balin's Tomb,Elf,8
+Legolas,The Fellowship Of The Ring,36: The Bridge Of Khazad-dûm,Elf,4
+Legolas,The Fellowship Of The Ring,37: Lothlorien,Elf,7
+Legolas,The Fellowship Of The Ring,38: Caras Galadhon,Elf,41
+Legolas,The Fellowship Of The Ring,41: Farewell To Lorien,Elf,20
+Legolas,The Fellowship Of The Ring,43: Parth Galen,Elf,31
+Legolas,The Fellowship Of The Ring,44: The Breaking Of The Fellowship,Elf,6
+Legolas,The Fellowship Of The Ring,46: The Road Goes Ever On…,Elf,15
+Legolas,The Return Of The King,05: Return To Edoras,Elf,21
+Legolas,The Return Of The King,08: The Palantir,Elf,22
+Legolas,The Return Of The King,20: Theoren's Decision,Elf,19
+Legolas,The Return Of The King,29: Marshalling At Dunharrow,Elf,21
+Legolas,The Return Of The King,31: Aragorn Takes The Paths Of The Dead,Elf,9
+Legolas,The Return Of The King,33: Dwimoberg ~ The Haunted Mountain,Elf,123
+Legolas,The Return Of The King,35: The Paths Of The Dead,Elf,32
+Legolas,The Return Of The King,53: Victory At Minar Tirith,Elf,6
+Legolas,The Return Of The King,59: The Last Debate,Elf,2
+Legolas,The Return Of The King,65: The Black Gate Opens,Elf,8
+Legolas,The Two Towers,05: The Three Hunters,Elf,25
+Legolas,The Two Towers,09: On The Trail Of The Uruk-Hai,Elf,13
+Legolas,The Two Towers,10: Night Camp At Fangorn,Elf,10
+Legolas,The Two Towers,11: The Riders Of Rohan,Elf,7
+Legolas,The Two Towers,15: The White Rider,Elf,63
+Legolas,The Two Towers,34: The Wolves Of Isengard,Elf,5
+Legolas,The Two Towers,43: Aragorn's Return,Elf,5
+Legolas,The Two Towers,45: The Glittering Caves,Elf,36
+Legolas,The Two Towers,48: The Host Of The Eldar,Elf,24
+Legolas,The Two Towers,49: The Battle Of The Hornburg,Elf,37
+Legolas,The Two Towers,53: The Retreat To The Hornburg,Elf,1
+Legolas,The Two Towers,62: The Final Tally,Elf,7
+Lobelia Sackville-Baggins,The Fellowship Of The Ring,04: Very Old Friends,Hobbit,8
+Lobelia Sackville-Baggins,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,1
+Lurtz,The Fellowship Of The Ring,40: The Fighting Uruk-hai,Orc,1
+Lurtz,The Fellowship Of The Ring,44: The Breaking Of The Fellowship,Orc,6
+Madril,The Return Of The King,18: Osgiliath Invaded,Men,28
+Madril,The Return Of The King,21: The Fall of Osgiliath,Men,8
+Man,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Men,13
+Man,The Fellowship Of The Ring,27: The Council Of Elrond,Men,4
+Mauhur,The Two Towers,04: The Uruk-Hai,Orc,2
+Mercenary,The Return Of The King,37: The Corsairs Of Umbar,Men,6
+Merry,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,19
+Merry,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,53
+Merry,The Fellowship Of The Ring,13: A Shortcut To Mushrooms,Hobbit,58
+Merry,The Fellowship Of The Ring,14: Buckleberry Ferry,Hobbit,43
+Merry,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Hobbit,6
+Merry,The Fellowship Of The Ring,16: The Nazgul,Hobbit,28
+Merry,The Fellowship Of The Ring,17: The Midgewater Marshes,Hobbit,9
+Merry,The Fellowship Of The Ring,19: A Knife In The Dark,Hobbit,13
+Merry,The Fellowship Of The Ring,21: Flight To The Ford,Hobbit,5
+Merry,The Fellowship Of The Ring,27: The Council Of Elrond,Hobbit,24
+Merry,The Fellowship Of The Ring,31: The Ring Goes South,Hobbit,17
+Merry,The Fellowship Of The Ring,33: Moria,Hobbit,9
+Merry,The Fellowship Of The Ring,34: A Journey In The Dark,Hobbit,8
+Merry,The Fellowship Of The Ring,38: Caras Galadhon,Hobbit,6
+Merry,The Fellowship Of The Ring,41: Farewell To Lorien,Hobbit,5
+Merry,The Fellowship Of The Ring,43: Parth Galen,Hobbit,2
+Merry,The Fellowship Of The Ring,44: The Breaking Of The Fellowship,Hobbit,18
+Merry,The Return Of The King,03: The Road To Isengard,Hobbit,36
+Merry,The Return Of The King,05: Return To Edoras,Hobbit,78
+Merry,The Return Of The King,08: The Palantir,Hobbit,135
+Merry,The Return Of The King,20: Theoren's Decision,Hobbit,16
+Merry,The Return Of The King,29: Marshalling At Dunharrow,Hobbit,12
+Merry,The Return Of The King,34: The Muster Of Rohan,Hobbit,21
+Merry,The Return Of The King,39: Merry's Simple Courage,Hobbit,83
+Merry,The Return Of The King,46: The Ride Of The Rohirrim,Hobbit,2
+Merry,The Return Of The King,57: Pippin Looks After Merry,Hobbit,11
+Merry,The Return Of The King,64: The Mouth Of Sauron,Hobbit,1
+Merry,The Return Of The King,71: Sauron Defeated,Hobbit,2
+Merry,The Return Of The King,73: The Fellowship Reunited,Hobbit,1
+Merry,The Two Towers,04: The Uruk-Hai,Hobbit,19
+Merry,The Two Towers,10: Night Camp At Fangorn,Hobbit,68
+Merry,The Two Towers,12: The Fate Of Merry And Pippin,Hobbit,3
+Merry,The Two Towers,13: Treebeard,Hobbit,28
+Merry,The Two Towers,16: The Song Of The Entwives,Hobbit,4
+Merry,The Two Towers,19: Ent Draft,Hobbit,63
+Merry,The Two Towers,36: Isengard Unleashed,Hobbit,8
+Merry,The Two Towers,44: Entmoot,Hobbit,6
+Merry,The Two Towers,47: Don't Be Hasty Master Meriadoc!,Hobbit,18
+Merry,The Two Towers,50: Old Entish,Hobbit,30
+Merry,The Two Towers,52: The Entmoot Decides,Hobbit,58
+Merry,The Two Towers,54: Master Peregrin's Plan,Hobbit,6
+Merry,The Two Towers,56: The Last March Of The Ents,Hobbit,5
+Merry,The Two Towers,59: The Flooding Of Isengard,Hobbit,3
+Merry,The Two Towers,63: Flotsam And Jetsam,Hobbit,77
+Morwen,The Two Towers,06: The Burning of the Westfold,Men,37
+Morwen,The Two Towers,35: Helm's Deep,Men,2
+Mouth Of Sauron,The Return Of The King,64: The Mouth Of Sauron,Orc,87
+Mrs. Bracegirdle,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,2
+Nazgul,The Fellowship Of The Ring,08: The Account of Isildur,Nazgul,2
+Nazgul,The Fellowship Of The Ring,21: Flight To The Ford,Nazgul,6
+Orc,The Fellowship Of The Ring,18: The Spoiling Of Isengard,Orc,20
+Orc,The Return Of The King,28: The Sacrifice Of Faramir,Orc,5
+Orc,The Return Of The King,36: The Siege Of Gondor,Orc,25
+Orc,The Return Of The King,43: The Choices Of Master Samwise Gamgee,Orc,15
+Orc,The Return Of The King,51: The Black Ships,Orc,19
+Orc,The Return Of The King,53: Victory At Minar Tirith,Orc,5
+Orc,The Return Of The King,62: In The Company Of Orcs,Orc,104
+Orc,The Two Towers,06: The Burning of the Westfold,Orc,29
+Orc,The Two Towers,10: Night Camp At Fangorn,Orc,20
+Pippin,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,15
+Pippin,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,61
+Pippin,The Fellowship Of The Ring,13: A Shortcut To Mushrooms,Hobbit,32
+Pippin,The Fellowship Of The Ring,14: Buckleberry Ferry,Hobbit,14
+Pippin,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Hobbit,39
+Pippin,The Fellowship Of The Ring,16: The Nazgul,Hobbit,25
+Pippin,The Fellowship Of The Ring,19: A Knife In The Dark,Hobbit,12
+Pippin,The Fellowship Of The Ring,21: Flight To The Ford,Hobbit,9
+Pippin,The Fellowship Of The Ring,27: The Council Of Elrond,Hobbit,18
+Pippin,The Fellowship Of The Ring,31: The Ring Goes South,Hobbit,10
+Pippin,The Fellowship Of The Ring,33: Moria,Hobbit,11
+Pippin,The Fellowship Of The Ring,34: A Journey In The Dark,Hobbit,10
+Pippin,The Fellowship Of The Ring,41: Farewell To Lorien,Hobbit,1
+Pippin,The Fellowship Of The Ring,44: The Breaking Of The Fellowship,Hobbit,17
+Pippin,The Return Of The King,03: The Road To Isengard,Hobbit,51
+Pippin,The Return Of The King,05: Return To Edoras,Hobbit,73
+Pippin,The Return Of The King,08: The Palantir,Hobbit,104
+Pippin,The Return Of The King,11: Minas Tirith,Hobbit,36
+Pippin,The Return Of The King,12: The Decline Of Gondor,Hobbit,22
+Pippin,The Return Of The King,14: The Deep Breath Before The Plunge,Hobbit,75
+Pippin,The Return Of The King,21: The Fall of Osgiliath,Hobbit,15
+Pippin,The Return Of The King,25: Peregrin Of The Tower Guard,Hobbit,66
+Pippin,The Return Of The King,26: Allegiance To Denethor,Hobbit,32
+Pippin,The Return Of The King,28: The Sacrifice Of Faramir,Hobbit,59
+Pippin,The Return Of The King,36: The Siege Of Gondor,Hobbit,15
+Pippin,The Return Of The King,44: Denethor's Madness,Hobbit,17
+Pippin,The Return Of The King,45: The Witch King's Hour,Hobbit,13
+Pippin,The Return Of The King,47: The Pyre Of Denethor,Hobbit,2
+Pippin,The Return Of The King,49: A Far Green Country,Hobbit,17
+Pippin,The Return Of The King,56: The Houses Of Healing,Hobbit,1
+Pippin,The Return Of The King,57: Pippin Looks After Merry,Hobbit,16
+Pippin,The Return Of The King,64: The Mouth Of Sauron,Hobbit,5
+Pippin,The Return Of The King,69: The Eagles Are Coming,Hobbit,6
+Pippin,The Return Of The King,71: Sauron Defeated,Hobbit,1
+Pippin,The Return Of The King,75: Homeward Bound,Hobbit,2
+Pippin,The Two Towers,04: The Uruk-Hai,Hobbit,26
+Pippin,The Two Towers,10: Night Camp At Fangorn,Hobbit,14
+Pippin,The Two Towers,13: Treebeard,Hobbit,36
+Pippin,The Two Towers,19: Ent Draft,Hobbit,122
+Pippin,The Two Towers,36: Isengard Unleashed,Hobbit,9
+Pippin,The Two Towers,47: Don't Be Hasty Master Meriadoc!,Hobbit,7
+Pippin,The Two Towers,50: Old Entish,Hobbit,5
+Pippin,The Two Towers,52: The Entmoot Decides,Hobbit,29
+Pippin,The Two Towers,54: Master Peregrin's Plan,Hobbit,46
+Pippin,The Two Towers,56: The Last March Of The Ents,Hobbit,8
+Pippin,The Two Towers,59: The Flooding Of Isengard,Hobbit,1
+Pippin,The Two Towers,63: Flotsam And Jetsam,Hobbit,56
+Proudfoot,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,1
+Rohan Maiden,The Two Towers,35: Helm's Deep,Men,15
+Rohan Maiden,The Two Towers,43: Aragorn's Return,Men,2
+Rohan Maiden,The Two Towers,58: Forth Eorlingas,Men,7
+Rohan Warrior,The Return Of The King,05: Return To Edoras,Men,1
+Rohan Warrior,The Return Of The King,20: Theoren's Decision,Men,3
+Rohan Warrior,The Return Of The King,29: Marshalling At Dunharrow,Men,30
+Rohan Warrior,The Return Of The King,30: Anduril - Flame Of The West,Men,7
+Rohan Warrior,The Return Of The King,31: Aragorn Takes The Paths Of The Dead,Men,20
+Rohan Warrior,The Return Of The King,48: The Battle Of The Pelennor Fields,Men,3
+Rohan Warrior,The Two Towers,07: Massacre at the Fords of Isen,Men,10
+Rohan Warrior,The Two Towers,24: Brego,Men,13
+Rohan Warrior,The Two Towers,35: Helm's Deep,Men,22
+Rohan Warrior,The Two Towers,45: The Glittering Caves,Men,12
+Rohan Warrior,The Two Towers,48: The Host Of The Eldar,Men,17
+Rohan Warrior,The Two Towers,49: The Battle Of The Hornburg,Men,1
+Rohan Warrior,The Two Towers,53: The Retreat To The Hornburg,Men,22
+Rosie,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,3
+Rosie,The Return Of The King,75: Homeward Bound,Hobbit,2
+Sam,The Fellowship Of The Ring,05: A Long Expected Party,Hobbit,7
+Sam,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,10
+Sam,The Fellowship Of The Ring,10: The Shadow Of The Past,Hobbit,84
+Sam,The Fellowship Of The Ring,11: The Passing Of The Elves,Hobbit,40
+Sam,The Fellowship Of The Ring,13: A Shortcut To Mushrooms,Hobbit,48
+Sam,The Fellowship Of The Ring,14: Buckleberry Ferry,Hobbit,9
+Sam,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Hobbit,30
+Sam,The Fellowship Of The Ring,16: The Nazgul,Hobbit,17
+Sam,The Fellowship Of The Ring,19: A Knife In The Dark,Hobbit,24
+Sam,The Fellowship Of The Ring,21: Flight To The Ford,Hobbit,34
+Sam,The Fellowship Of The Ring,23: Many Meetings,Hobbit,63
+Sam,The Fellowship Of The Ring,27: The Council Of Elrond,Hobbit,8
+Sam,The Fellowship Of The Ring,31: The Ring Goes South,Hobbit,3
+Sam,The Fellowship Of The Ring,33: Moria,Hobbit,7
+Sam,The Fellowship Of The Ring,34: A Journey In The Dark,Hobbit,7
+Sam,The Fellowship Of The Ring,35: Balin's Tomb,Hobbit,13
+Sam,The Fellowship Of The Ring,37: Lothlorien,Hobbit,2
+Sam,The Fellowship Of The Ring,38: Caras Galadhon,Hobbit,49
+Sam,The Fellowship Of The Ring,41: Farewell To Lorien,Hobbit,13
+Sam,The Fellowship Of The Ring,42: The Great River,Hobbit,37
+Sam,The Fellowship Of The Ring,44: The Breaking Of The Fellowship,Hobbit,2
+Sam,The Fellowship Of The Ring,46: The Road Goes Ever On…,Hobbit,50
+Sam,The Return Of The King,02: Journey To The Cross-roads,Hobbit,77
+Sam,The Return Of The King,06: Gollum's Villany,Hobbit,65
+Sam,The Return Of The King,13: Cross-roads Of The Fallen King,Hobbit,56
+Sam,The Return Of The King,15: Minas Morgul,Hobbit,5
+Sam,The Return Of The King,16: Sam's Warning,Hobbit,61
+Sam,The Return Of The King,23: The Stairs Of Cirith Ungol,Hobbit,8
+Sam,The Return Of The King,27: The Parting Of Sam & Frodo,Hobbit,184
+Sam,The Return Of The King,38: Shelob's Lair,Hobbit,1
+Sam,The Return Of The King,43: The Choices Of Master Samwise Gamgee,Hobbit,48
+Sam,The Return Of The King,58: The Tower Of Cirith Ungol,Hobbit,96
+Sam,The Return Of The King,62: In The Company Of Orcs,Hobbit,46
+Sam,The Return Of The King,63: The Land Of Shadow,Hobbit,56
+Sam,The Return Of The King,65: The Black Gate Opens,Hobbit,16
+Sam,The Return Of The King,66: I Can't Carry It For You… But I Can Carry You,Hobbit,85
+Sam,The Return Of The King,68: Mount Doom,Hobbit,10
+Sam,The Return Of The King,70: The Crack Of Doom,Hobbit,38
+Sam,The Return Of The King,72: The End Of All Things,Hobbit,31
+Sam,The Return Of The King,75: Homeward Bound,Hobbit,27
+Sam,The Return Of The King,76: The Grey Havens,Hobbit,14
+Sam,The Two Towers,01: The Foundations Of Stone,Hobbit,5
+Sam,The Two Towers,02: Elven Rope,Hobbit,97
+Sam,The Two Towers,03: The Taming of Sméagol,Hobbit,181
+Sam,The Two Towers,14: The Passage Of The Marshes,Hobbit,69
+Sam,The Two Towers,18: The Black Gate Is Closed,Hobbit,68
+Sam,The Two Towers,28: The Forests Of Ithilien,Hobbit,87
+Sam,The Two Towers,30: Of Herbs And Stewed Rabbit,Hobbit,91
+Sam,The Two Towers,40: The Windows On The West,Hobbit,8
+Sam,The Two Towers,42: The Forbidden Pool,Hobbit,64
+Sam,The Two Towers,57: The Nazgûl Attack,Hobbit,53
+Sam,The Two Towers,60: The Tales That Really Mattered…,Hobbit,186
+Sam,The Two Towers,64: Farewell To Faramir,Hobbit,54
+Sam,The Two Towers,65: The Battle For Middle Earth Is About To Begin,Hobbit,69
+Sam,The Two Towers,66: Gollum's Plan,Hobbit,12
+Sandyman,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,17
+Saruman,The Fellowship Of The Ring,12: Saruman The White,Ainur,274
+Saruman,The Fellowship Of The Ring,18: The Spoiling Of Isengard,Ainur,22
+Saruman,The Fellowship Of The Ring,23: Many Meetings,Ainur,33
+Saruman,The Fellowship Of The Ring,32: The Pass Of Caradhras,Ainur,68
+Saruman,The Fellowship Of The Ring,40: The Fighting Uruk-hai,Ainur,83
+Saruman,The Return Of The King,04: The Voice Of Saruman,Ainur,301
+Saruman,The Two Towers,06: The Burning of the Westfold,Ainur,187
+Saruman,The Two Towers,25: The Ring Of Barahir,Ainur,68
+Saruman,The Two Towers,27: Exodus From Edoras,Ainur,4
+Saruman,The Two Towers,36: Isengard Unleashed,Ainur,50
+Shagrat,The Return Of The King,43: The Choices Of Master Samwise Gamgee,Orc,55
+Shagrat,The Return Of The King,58: The Tower Of Cirith Ungol,Orc,35
+Smeagol,The Return Of The King,01: The Finding Of The Ring,Gollum,98
+Smeagol,The Return Of The King,06: Gollum's Villany,Gollum,83
+Smeagol,The Return Of The King,38: Shelob's Lair,Gollum,26
+Smeagol,The Two Towers,03: The Taming of Sméagol,Gollum,28
+Smeagol,The Two Towers,29: Gollum and Sméagol ,Gollum,66
+Smeagol,The Two Towers,30: Of Herbs And Stewed Rabbit,Gollum,99
+Smeagol,The Two Towers,42: The Forbidden Pool,Gollum,55
+Smeagol,The Two Towers,66: Gollum's Plan,Gollum,53
+Snaga,The Two Towers,34: The Wolves Of Isengard,Orc,10
+Ted,The Fellowship Of The Ring,09: At The Green Dragon,Hobbit,55
+Theoden,The Return Of The King,04: The Voice Of Saruman,Men,98
+Theoden,The Return Of The King,05: Return To Edoras,Men,52
+Theoden,The Return Of The King,08: The Palantir,Men,22
+Theoden,The Return Of The King,20: Theoren's Decision,Men,73
+Theoden,The Return Of The King,29: Marshalling At Dunharrow,Men,24
+Theoden,The Return Of The King,30: Anduril - Flame Of The West,Men,4
+Theoden,The Return Of The King,31: Aragorn Takes The Paths Of The Dead,Men,16
+Theoden,The Return Of The King,32: No More Despair,Men,60
+Theoden,The Return Of The King,34: The Muster Of Rohan,Men,63
+Theoden,The Return Of The King,39: Merry's Simple Courage,Men,13
+Theoden,The Return Of The King,46: The Ride Of The Rohirrim,Men,71
+Theoden,The Return Of The King,48: The Battle Of The Pelennor Fields,Men,26
+Theoden,The Return Of The King,50: The Nazgul And His Prey,Men,5
+Theoden,The Return Of The King,54: The Passing Of Theoden,Men,38
+Theoden,The Two Towers,08: The Banishment of Éomer,Men,3
+Theoden,The Two Towers,20: The King Of The Golden Hall,Men,56
+Theoden,The Two Towers,22: Simbelmynë on the Burial Mounds,Men,55
+Theoden,The Two Towers,23: The King's Decision,Men,49
+Theoden,The Two Towers,25: The Ring Of Barahir,Men,18
+Theoden,The Two Towers,32: One of the Dúnedain,Men,59
+Theoden,The Two Towers,34: The Wolves Of Isengard,Men,50
+Theoden,The Two Towers,35: Helm's Deep,Men,49
+Theoden,The Two Towers,43: Aragorn's Return,Men,206
+Theoden,The Two Towers,46: Where Is The Horse And The Rider,Men,64
+Theoden,The Two Towers,48: The Host Of The Eldar,Men,4
+Theoden,The Two Towers,49: The Battle Of The Hornburg,Men,7
+Theoden,The Two Towers,51: The Breach Of The Deeping Wall,Men,17
+Theoden,The Two Towers,53: The Retreat To The Hornburg,Men,58
+Theoden,The Two Towers,58: Forth Eorlingas,Men,63
+Theoden,The Two Towers,60: The Tales That Really Mattered…,Men,4
+Treebeard,The Return Of The King,04: The Voice Of Saruman,Ent,50
+Treebeard,The Two Towers,13: Treebeard,Ent,77
+Treebeard,The Two Towers,16: The Song Of The Entwives,Ent,204
+Treebeard,The Two Towers,19: Ent Draft,Ent,113
+Treebeard,The Two Towers,36: Isengard Unleashed,Ent,37
+Treebeard,The Two Towers,44: Entmoot,Ent,55
+Treebeard,The Two Towers,47: Don't Be Hasty Master Meriadoc!,Ent,12
+Treebeard,The Two Towers,50: Old Entish,Ent,64
+Treebeard,The Two Towers,52: The Entmoot Decides,Ent,42
+Treebeard,The Two Towers,54: Master Peregrin's Plan,Ent,64
+Treebeard,The Two Towers,56: The Last March Of The Ents,Ent,105
+Treebeard,The Two Towers,59: The Flooding Of Isengard,Ent,15
+Ugluk,The Two Towers,04: The Uruk-Hai,Orc,51
+Ugluk,The Two Towers,10: Night Camp At Fangorn,Orc,33
+Uruk-hai,The Two Towers,10: Night Camp At Fangorn,Orc,13
+Voice Of Sauron,The Fellowship Of The Ring,18: The Spoiling Of Isengard,Ainur,7
+Voice Of Sauron,The Return Of The King,67: The Last Move,Ainur,2
+Voice Of The Ring,The Fellowship Of The Ring,15: At The Sign of the Prancing Pony,Ainur,19
+Voice Of The Ring,The Fellowship Of The Ring,27: The Council Of Elrond,Ainur,12
+Voice Of The Ring,The Fellowship Of The Ring,43: Parth Galen,Ainur,3
+Wild Man,The Two Towers,06: The Burning of the Westfold,Men,11
+Witch King,The Return Of The King,24: Courage Is The Best Defense,Nazgul,21
+Witch King,The Return Of The King,45: The Witch King's Hour,Nazgul,24
+Witch King,The Return Of The King,50: The Nazgul And His Prey,Nazgul,13
+Witch King,The Return Of The King,52: Shieldmaiden Of Rohan,Nazgul,9
